@@ -1,0 +1,48 @@
+
+h1 {
+    border: 2px #eee solid;
+    color: blue; 
+    font-size: medium;  
+    text-align: left;
+    padding: 30px;
+    background: powderblue;
+}
+
+h2{
+    color: blue; 
+    font-size: medium;  
+    text-align: center;
+    box-align:right;
+    padding: 30px;
+}
+
+h3 {
+    border: 2px;
+    color: red;
+    box-align:left;
+    padding: 2px;
+}
+
+img{
+    border: 2px #eee solid;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left:5px;
+    box-align: center;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.hemisphere{
+    box-align: left;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.hemisphere.title:{
+    text-align: center;
+}
